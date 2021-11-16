@@ -1,0 +1,2 @@
+# myComponent
+component
